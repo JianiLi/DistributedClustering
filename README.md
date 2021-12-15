@@ -1,4 +1,3 @@
-# Source code for Submission 32
 
 - Tested on python 3.5
 - Install necessary packages: 
