@@ -1,0 +1,2 @@
+DigitClassification/mnist/ filter=lfs diff=lfs merge=lfs -text
+DigitClassification/synthetic_digits/ filter=lfs diff=lfs merge=lfs -text
